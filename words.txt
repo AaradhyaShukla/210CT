@@ -1,0 +1,12 @@
+January,20
+February,489
+March ,472
+April,573
+May ,5045
+June,457
+July,5768
+August,40573
+September,345
+October,250
+November,355
+December,968
